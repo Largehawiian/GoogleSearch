@@ -8,7 +8,7 @@
 .LINK
     
 .EXAMPLE
-    Search-Google.ps1 -Query "PowerShell" -ApkiKey "Your  Key"
+    Search-Google -Query "PowerShell" -ApkiKey "Your  Key"
 #>
 Function Search-Google{
     param (
